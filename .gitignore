@@ -40,3 +40,4 @@ nosetests.xml
 .qbcache/
 
 .noseids
+include/
